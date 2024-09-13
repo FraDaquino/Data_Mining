@@ -1,7 +1,7 @@
 # Data_Mining
 Data Mining Project at @UniPi a.y. 2023/24
 
-This project aims to leverage Data Mining techniques to explore and analyze music data from Spotify. By applying advanced algorithms and methods, we extract meaningful insights and hidden patterns from the provided dataset. The project utilizes two distinct datasets: the first contains a wide variety of tracks across 114 different genres, along with metadata on the artists. The second dataset consists of time series data representing the spectral centroids of audio files, with 10,000 time series (500 for each of the 20 musical genres).
+This project aims to leverage Data Mining techniques to explore and analyze music data from Spotify. By applying advanced algorithms and methods, we extract meaningful insights and hidden patterns from the provided dataset. The project utilizes two distinct datasets: the first contains a wide variety of tracks across 114 different genres, along with metadata on the artists. The second dataset consists of time series data representing the spectral centroids of audio files, with 10,000 time series.
 
 The project is organized into five key modules:
 1. **Data Exploration and Preparation:** Establishing a solid foundation by exploring and preparing both datasets for further analysis.
